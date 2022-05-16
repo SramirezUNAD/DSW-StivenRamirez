@@ -24,3 +24,8 @@ footer{
     color: beige;
     padding: 10px;
 }
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
